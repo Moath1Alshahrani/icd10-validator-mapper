@@ -1,0 +1,151 @@
+﻿Record_ID,Local_Code,Local_Description,Entered_ICD10,Department
+R2001,LC-110,Gastro-oesophageal reflux disease without oesophagitis,I10,Outpatient
+R2002,LC-102,"Asthma, unspecified",J459,Outpatient
+R2003,LC-111,"Anaemia, unspecified",D64.9,Pediatrics
+R2004,LC-106,"Acute upper respiratory infection, unspecified",J06.9,Internal Medicine
+R2005,LC-113,"Infectious gastroenteritis and colitis, unspecified",A09,Outpatient
+R2006,LC-117,"Conjunctivitis, unspecified",H10.9,Pediatrics
+R2007,LC-103,"Gastritis, unspecified",J06.9,Pediatrics
+R2008,LC-101,Essential (primary) hypertension,I10,Internal Medicine
+R2009,LC-101,Essential (primary) hypertension,E11.9,Pediatrics
+R2010,LC-104,Low back pain,M54.5,Inpatient
+R2011,LC-117,"Conjunctivitis, unspecified",H10.9,Emergency
+R2012,LC-117,"Conjunctivitis, unspecified",H109,Inpatient
+R2013,LC-103,"Gastritis, unspecified",K29.7,Inpatient
+R2014,LC-111,"Anaemia, unspecified",D64.9,Outpatient
+R2015,LC-118,"Viral infection, unspecified",B34.9,Inpatient
+R2016,LC-115,Headache, R51 ,Internal Medicine
+R2017,LC-110,Gastro-oesophageal reflux disease without oesophagitis,K21.9,Internal Medicine
+R2018,LC-111,"Anaemia, unspecified",D64.9,Inpatient
+R2019,LC-903,Unspecified local entry,R69,Outpatient
+R2020,LC-118,"Viral infection, unspecified",B34.9,Internal Medicine
+R2021,LC-110,Gastro-oesophageal reflux disease without oesophagitis, K21.9 ,Emergency
+R2022,LC-119,"Noninfective gastroenteritis and colitis, unspecified",E11.9,Pediatrics
+R2023,LC-113,"Infectious gastroenteritis and colitis, unspecified",A09,Emergency
+R2024,LC-104,Low back pain,I-10,Outpatient
+R2025,LC-902,Unspecified local entry,R69,Pediatrics
+R2026,LC-118,"Viral infection, unspecified",B349,Emergency
+R2027,LC-110,Gastro-oesophageal reflux disease without oesophagitis, K21.9 ,Pediatrics
+R2028,LC-115,Headache,R51,Internal Medicine
+R2029,LC-102,"Asthma, unspecified",J459,Emergency
+R2030,LC-115,Headache, R51 ,Outpatient
+R2031,LC-101,Essential (primary) hypertension, I10 ,Emergency
+R2032,LC-901,Unspecified local entry,R69,Internal Medicine
+R2033,LC-109,"Hyperlipidaemia, unspecified", E78.5 ,Emergency
+R2034,LC-100,Type 2 diabetes mellitus without complications,I10,Inpatient
+R2035,LC-119,"Noninfective gastroenteritis and colitis, unspecified",K52.9,Outpatient
+R2036,LC-106,"Acute upper respiratory infection, unspecified",J069,Inpatient
+R2037,LC-107,"Chest pain, unspecified",R07.4,Internal Medicine
+R2038,LC-102,"Asthma, unspecified",J45.9,Internal Medicine
+R2039,LC-117,"Conjunctivitis, unspecified",H10.9,Inpatient
+R2040,LC-113,"Infectious gastroenteritis and colitis, unspecified",,Emergency
+R2041,LC-903,Unspecified local entry,R69,Emergency
+R2042,LC-902,Unspecified local entry,,Inpatient
+R2043,LC-104,Low back pain,M54.5,Inpatient
+R2044,LC-107,"Chest pain, unspecified",r07.4,Outpatient
+R2045,LC-115,Headache,R51,Inpatient
+R2046,LC-108,General medical examination,Z00.0,Inpatient
+R2047,LC-113,"Infectious gastroenteritis and colitis, unspecified",A09,Pediatrics
+R2048,LC-118,"Viral infection, unspecified",B34.9,Inpatient
+R2049,LC-903,Unspecified local entry,,Pediatrics
+R2050,LC-901,Unspecified local entry,r69,Outpatient
+R2051,LC-114,"Acute pharyngitis, unspecified",99.9,Internal Medicine
+R2052,LC-112,"Dermatitis, unspecified",L30.9,Outpatient
+R2053,LC-115,Headache,r51,Outpatient
+R2054,LC-106,"Acute upper respiratory infection, unspecified",J06.9,Inpatient
+R2055,LC-114,"Acute pharyngitis, unspecified",J02.9,Emergency
+R2056,LC-119,"Noninfective gastroenteritis and colitis, unspecified",K52.9,Outpatient
+R2057,LC-118,"Viral infection, unspecified",B34.9,Outpatient
+R2058,LC-111,"Anaemia, unspecified",d64.9,Outpatient
+R2059,LC-106,"Acute upper respiratory infection, unspecified",j06.9,Inpatient
+R2060,LC-901,Unspecified local entry,R69,Emergency
+R2061,LC-119,"Noninfective gastroenteritis and colitis, unspecified",K52.9,Outpatient
+R2062,LC-103,"Gastritis, unspecified",,Internal Medicine
+R2063,LC-115,Headache,R51,Outpatient
+R2064,LC-104,Low back pain,M54.5,Emergency
+R2065,LC-108,General medical examination,Z00.0,Inpatient
+R2066,LC-116,Other and unspecified abdominal pain,R10.4,Pediatrics
+R2067,LC-111,"Anaemia, unspecified",D64.9,Pediatrics
+R2068,LC-100,Type 2 diabetes mellitus without complications, E11.9 ,Emergency
+R2069,LC-901,Unspecified local entry,,Emergency
+R2070,LC-116,Other and unspecified abdominal pain,R10.4,Inpatient
+R2071,LC-111,"Anaemia, unspecified",D649,Pediatrics
+R2072,LC-117,"Conjunctivitis, unspecified",H109,Emergency
+R2073,LC-901,Unspecified local entry,R69,Inpatient
+R2074,LC-107,"Chest pain, unspecified",R074,Inpatient
+R2075,LC-106,"Acute upper respiratory infection, unspecified",J06.9,Emergency
+R2076,LC-100,Type 2 diabetes mellitus without complications,I10,Internal Medicine
+R2077,LC-108,General medical examination,Z00.0,Pediatrics
+R2078,LC-111,"Anaemia, unspecified",D64.9,Emergency
+R2079,LC-111,"Anaemia, unspecified",D64.9,Outpatient
+R2080,LC-107,"Chest pain, unspecified",R07.4,Emergency
+R2081,LC-106,"Acute upper respiratory infection, unspecified",J06.9,Pediatrics
+R2082,LC-100,Type 2 diabetes mellitus without complications,E11.9,Emergency
+R2083,LC-901,Unspecified local entry,R69,Outpatient
+R2084,LC-112,"Dermatitis, unspecified",L309,Inpatient
+R2085,LC-115,Headache,,Internal Medicine
+R2086,LC-901,Unspecified local entry,R69,Internal Medicine
+R2087,LC-114,"Acute pharyngitis, unspecified",J02.9,Outpatient
+R2088,LC-105,"Urinary tract infection, site not specified",N39.0,Inpatient
+R2089,LC-100,Type 2 diabetes mellitus without complications,E11.9,Internal Medicine
+R2090,LC-901,Unspecified local entry,R69,Pediatrics
+R2091,LC-115,Headache,r51,Emergency
+R2092,LC-104,Low back pain,M54.5,Inpatient
+R2093,LC-100,Type 2 diabetes mellitus without complications,E11.9,Outpatient
+R2094,LC-116,Other and unspecified abdominal pain, R10.4 ,Inpatient
+R2095,LC-113,"Infectious gastroenteritis and colitis, unspecified",E11.9,Inpatient
+R2096,LC-100,Type 2 diabetes mellitus without complications,E11.9,Emergency
+R2097,LC-116,Other and unspecified abdominal pain,R10.4,Pediatrics
+R2098,LC-110,Gastro-oesophageal reflux disease without oesophagitis,K21.9,Internal Medicine
+R2099,LC-104,Low back pain,M54.5,Emergency
+R2100,LC-114,"Acute pharyngitis, unspecified",j02.9,Pediatrics
+R2101,LC-113,"Infectious gastroenteritis and colitis, unspecified",A09,Pediatrics
+R2102,LC-104,Low back pain,M54.5,Pediatrics
+R2103,LC-116,Other and unspecified abdominal pain,R10.4,Internal Medicine
+R2104,LC-105,"Urinary tract infection, site not specified",n39.0,Inpatient
+R2105,LC-105,"Urinary tract infection, site not specified",N39.0,Pediatrics
+R2106,LC-103,"Gastritis, unspecified",K29.7,Emergency
+R2107,LC-902,Unspecified local entry,R69,Pediatrics
+R2108,LC-115,Headache,R51,Outpatient
+R2109,LC-117,"Conjunctivitis, unspecified",H10.9,Inpatient
+R2110,LC-108,General medical examination,Z00.0,Outpatient
+R2111,LC-116,Other and unspecified abdominal pain,R10.4,Outpatient
+R2112,LC-102,"Asthma, unspecified",J45.9,Pediatrics
+R2113,LC-116,Other and unspecified abdominal pain,r10.4,Inpatient
+R2114,LC-903,Unspecified local entry,R69,Pediatrics
+R2115,LC-117,"Conjunctivitis, unspecified",H109,Pediatrics
+R2116,LC-107,"Chest pain, unspecified", R07.4 ,Emergency
+R2117,LC-117,"Conjunctivitis, unspecified",11.9E,Internal Medicine
+R2118,LC-104,Low back pain,M54.5,Internal Medicine
+R2119,LC-114,"Acute pharyngitis, unspecified",J02.9,Inpatient
+R2120,LC-113,"Infectious gastroenteritis and colitis, unspecified",A09,Emergency
+R2121,LC-103,"Gastritis, unspecified",11.9E,Emergency
+R2122,LC-104,Low back pain,M54.5,Inpatient
+R2123,LC-114,"Acute pharyngitis, unspecified",J02.9,Outpatient
+R2124,LC-112,"Dermatitis, unspecified",,Inpatient
+R2125,LC-902,Unspecified local entry,R69,Inpatient
+R2126,LC-903,Unspecified local entry,R69,Pediatrics
+R2127,LC-112,"Dermatitis, unspecified",L30.9,Inpatient
+R2128,LC-111,"Anaemia, unspecified",D64.9,Emergency
+R2129,LC-100,Type 2 diabetes mellitus without complications,E11.9,Internal Medicine
+R2130,LC-114,"Acute pharyngitis, unspecified", J02.9 ,Internal Medicine
+R2131,LC-110,Gastro-oesophageal reflux disease without oesophagitis,K21.9,Emergency
+R2132,LC-116,Other and unspecified abdominal pain,E11.9,Inpatient
+R2133,LC-103,"Gastritis, unspecified",K29.7,Emergency
+R2134,LC-101,Essential (primary) hypertension,11.9E,Emergency
+R2135,LC-104,Low back pain,M545,Emergency
+R2136,LC-112,"Dermatitis, unspecified",L30.9,Pediatrics
+R2137,LC-118,"Viral infection, unspecified",B34.9,Emergency
+R2138,LC-102,"Asthma, unspecified",J45.9,Inpatient
+R2139,LC-113,"Infectious gastroenteritis and colitis, unspecified",E1.99,Outpatient
+R2140,LC-901,Unspecified local entry,R69,Emergency
+R2141,LC-102,"Asthma, unspecified",j45.9,Inpatient
+R2142,LC-102,"Asthma, unspecified",J45.9,Outpatient
+R2143,LC-114,"Acute pharyngitis, unspecified",J02.9,Pediatrics
+R2144,LC-113,"Infectious gastroenteritis and colitis, unspecified",E1.99,Pediatrics
+R2145,LC-104,Low back pain,M54.5,Inpatient
+R2146,LC-103,"Gastritis, unspecified",I10,Outpatient
+R2147,LC-105,"Urinary tract infection, site not specified",N39.0,Emergency
+R2148,LC-901,Unspecified local entry,R69,Inpatient
+R2149,LC-109,"Hyperlipidaemia, unspecified",E78.5,Inpatient
+R2150,LC-108,General medical examination,Z00.0,Outpatient
